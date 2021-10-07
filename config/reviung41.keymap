@@ -55,5 +55,6 @@
                                 &trans      &trans       &kp BSPC        &trans      &gresc
                         >;
                 };
+            };
         };
 };
